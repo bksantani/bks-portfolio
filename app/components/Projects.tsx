@@ -25,15 +25,15 @@ export default function Projects() {
         "Architected resilient, domain‑aligned microservices with improved performance, observability, and security. Led modernization from legacy stacks to Java 25 + Spring Boot 4.",
     },
     {
-      title: "AI‑Accelerated Engineering Platform",
+      title: "AI Prompt & Context Toolkit",
       tech: [
-        "Multi‑Agent LLM Systems",
+        "Reusable Prompts",
+        "Role-Based Contexts",
         "AI Templates",
-        "Automated Docs",
-        "Architecture Agents"
+        "Automated Docs"
       ],
       description:
-        "Designed and implemented multi‑agent AI engineering accelerators enabling automatic code templates, architecture documents, test skeletons, and API definitions.",
+        "Designed and implemented reusable prompt packs and role‑based context templates (breakdown/dev/test/review) enabling consistent code templates, architecture documents, test skeletons, and API definitions.",
     },
     {
       title: "Mortgage Calculation Microservices (TCS)",

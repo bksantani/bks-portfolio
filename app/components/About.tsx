@@ -16,8 +16,9 @@ export default function About() {
       <p className="text-lg leading-relaxed opacity-90 max-w-3xl mx-auto mt-4">
         I deliver scalable, secure, and high‑impact applications used by millions, 
         with strong ownership of system design, modernization initiatives, engineering best practices, 
-        and technical leadership across teams. Recently, I’ve been leading multi‑agent 
-        AI‑accelerated engineering initiatives that reduce development cycles and improve 
+        and technical leadership across teams. Recently, I’ve been building reusable AI prompt packs
+        and curated, role‑based agent contexts (breakdown, backend dev, backend testing, backend review,
+        frontend dev) to standardize AI‑assisted workflows, reduce development cycles, and improve
         architectural consistency across squads.
       </p>
     </section>

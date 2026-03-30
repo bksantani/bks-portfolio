@@ -29,12 +29,13 @@ export default function Skills() {
     {
       title: "AI‑Driven Engineering",
       items: [
-        "Multi‑Agent LLM Systems",
+        "Reusable AI Prompt Packs",
+        "Role‑Based Agent Contexts",
         "AI‑Powered Code Templates",
         "Automated Architecture Docs",
         "Boilerplate Generators",
         "AI‑Driven Testing",
-        "Context‑Aware Agent Routing"
+        "Prompt Governance & Guardrails"
       ]
     },
     {

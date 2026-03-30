@@ -10,7 +10,7 @@ export default function Experience() {
         "Built backend microservices using Java 21/25 + Spring Boot 4 and frontend apps using Angular 21 (Signals) with NX Monorepo.",
         "Owned system design, API specifications, service boundaries, scalability patterns, observability, and secure‑by‑design architecture.",
         "Drove modernization (Java 25, Spring Boot 4, Angular 21), improved CI/CD pipelines, and implemented strong DevSecOps governance.",
-        "Led AI‑accelerated engineering initiatives using multi‑agent systems for architecture documents, API specs, and reusable code templates.",
+        "Led AI‑accelerated engineering initiatives via reusable prompt packs and role‑based context templates (breakdown, backend dev/test/review, frontend dev) for architecture docs, API specs, and code templates.",
         "Created Spring Boot skeletons, Angular component templates, automated documentation workflows, reducing development cycles by 30%.",
         "Reduced vulnerabilities by 45% through tooling + automation.",
         "Mentored engineers and provided architectural alignment across teams."

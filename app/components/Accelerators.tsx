@@ -1,13 +1,13 @@
 export default function Accelerators() {
   const accelerators = [
     {
-      title: "Multi‑Agent LLM Engineering Systems",
-      desc: "Designed and deployed multi‑agent AI systems capable of generating architecture documents, API specifications, HLD/LLD drafts, testing templates, and code scaffolding through coordinated agent workflows.",
+      title: "Role‑Based AI Prompt & Context Packs",
+      desc: "Created reusable prompt libraries and role‑based context templates that generate architecture docs, API specifications, HLD/LLD drafts, testing templates, and code scaffolding — aligned with org policies that avoid autonomous agents.",
       bullets: [
-        "Context-aware agent routing",
-        "Role-specialized agents (architecture, documentation, code generation, review)",
-        "Automated engineering workflows",
-        "Consistent architecture & coding standards enforced via templates"
+        "Role-based contexts (breakdown, backend dev, backend test, backend review, frontend dev)",
+        "Reusable prompt packs for architecture, docs, code and review",
+        "Standardized engineering workflows",
+        "Consistent architecture & coding standards via templates"
       ]
     },
     {
