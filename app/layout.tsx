@@ -13,7 +13,7 @@ export const metadata = {
     siteName: "BKS Portfolio",
     images: [
       {
-        url: "/og.png",
+        url: "https://bks-portfolio.vercel.app/og.png",
         width: 1200,
         height: 630,
         alt: "Bharat Santani Portfolio Preview",
